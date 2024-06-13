@@ -22,10 +22,10 @@
     <a href="https://linkedin.com/in/민형-김-814b1a309/" style="color: #ff69b4;">
       <img class="badge" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
     </a>
-    <a href="https://your-tistory-blog.tistory.com" style="color: #ff69b4;">
+    <a href="https://m1nbr0.tistory.com/" style="color: #ff69b4;">
       <img class="badge" src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Badge">
     </a>
-    <a href="https://blog.naver.com/your-naver-blog" style="color: #ff69b4;">
+    <a href="https://blog.naver.com/m1nbr0412" style="color: #ff69b4;">
       <img class="badge" src="https://img.shields.io/badge/NaverBlog-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Blog Badge">
     </a>
     <a href="https://www.instagram.com/078n40?igsh=OHpkOWF6bm5xbDJj" style="color: #ff69b4;">
