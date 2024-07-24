@@ -15,10 +15,6 @@
     <b>2024.05.02 ~</b>
   </p>
   
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/{MinhyeongKim0412}"/>
-  </a>
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhyeongKim0412&layout=compact)](https://github.com/MinhyeongKim0412/github-readme-stats)
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhyeongKim0412&hide=contribs,prs&show_icons=true&theme=테마)
    <br>
@@ -28,6 +24,7 @@
    <br>
    <br>
    <br>
+   
   <p style="text-align: left;">
     <a href="https://github.com/MinhyeongKim0412" style="color: #ff69b4;">
       <img class="badge" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
@@ -76,5 +73,8 @@
       <img class="badge" src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone Badge">
     </a>
   </p>
+    <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/{MinhyeongKim0412}"/>
+  </a>
 </body>
 </html>
