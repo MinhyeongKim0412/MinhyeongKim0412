@@ -18,9 +18,16 @@
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/{MinhyeongKim0412}"/>
   </a>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhyeongKim0412)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhyeongKim0412&layout=compact)](https://github.com/MinhyeongKim0412/github-readme-stats)
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhyeongKim0412&hide=contribs,prs&show_icons=true&theme=테마)
+   <br>
+   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinhyeongKim0412%2Fhit-counter&count_bg=%2379C83D&title_bg=%23FF96C8&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
+   [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=m1nbr0)](https://solved.ac/m1nbr0)
+   <br>
+   <br>
+   <br>
   <p style="text-align: left;">
     <a href="https://github.com/MinhyeongKim0412" style="color: #ff69b4;">
       <img class="badge" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
