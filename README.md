@@ -5,21 +5,21 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <h1 align="center" style="color: #ff69b4;">Hello, I'm Minhyeong Kim</h1>
+  <h1 style="color: #ff69b4; text-align: left;">Hello, I'm Minhyeong Kim</h1>
 
-  <p align="center">
-    <img src="https://i.ibb.co/Z1HprSv/2.jpg" alt="2" border="0"" alt="2" border="0"" alt="Profile Picture" style="border-radius: 50%;">
+  <p style="text-align: left;">
+    <img src="https://i.ibb.co/Z1HprSv/2.jpg" alt="2" border="0" style="border-radius: 50%;">
   </p>
 
-  <p align="center" style="color: #ff69b4;">
+  <p style="color: #ff69b4; text-align: left;">
     <b>2024.05.02 ~</b>
   </p>
   
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/lines/{MinhyeongKim0412}?pet-id=1" width="1000" height="120"/>
+    <img src="https://render.gitanimals.org/farms/{MinhyeongKim0412}"/>
   </a>
   
-  <p align="center">
+  <p style="text-align: left;">
     <a href="https://github.com/MinhyeongKim0412" style="color: #ff69b4;">
       <img class="badge" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
     </a>
@@ -37,8 +37,8 @@
     </a>
   </p>
 
-  <h2 align="center" style="color: #ff69b4;">Tech Stack</h2>
-  <p align="center">
+  <h2 style="color: #ff69b4; text-align: left;">Tech Stack</h2>
+  <p style="text-align: left;">
     <img class="badge" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
     <img class="badge" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="SpringBoot Badge">
     <img class="badge" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
@@ -47,16 +47,16 @@
     <img class="badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
   </p>
 
-  <h2 align="center" style="color: #ff69b4;">Tools</h2>
-  <p align="center">
+  <h2 style="color: #ff69b4; text-align: left;">Tools</h2>
+  <p style="text-align: left;">
     <img class="badge" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode Badge">
     <img class="badge" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse Badge">
     <img class="badge" src="https://img.shields.io/badge/DBeaver-1E8CBE?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver Badge">
     <img class="badge" src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ Badge">
   </p>
 
-  <h2 align="center" style="color: #ff69b4;">Contact Me</h2>
-  <p align="center">
+  <h2 style="color: #ff69b4; text-align: left;">Contact Me</h2>
+  <p style="text-align: left;">
     <a href="mailto:kimminhyeong9804@gmail.com" style="color: #ff69b4;">
       <img class="badge" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
     </a>
