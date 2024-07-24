@@ -14,7 +14,11 @@
   <p align="center" style="color: #ff69b4;">
     <b>2024.05.02 ~</b>
   </p>
-
+  
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/lines/{MinhyeongKim0412}?pet-id=1" width="1000" height="120"/>
+  </a>
+  
   <p align="center">
     <a href="https://github.com/MinhyeongKim0412" style="color: #ff69b4;">
       <img class="badge" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
