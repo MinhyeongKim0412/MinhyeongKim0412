@@ -18,7 +18,9 @@
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/{MinhyeongKim0412}"/>
   </a>
-  
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhyeongKim0412)](https://github.com/anuraghazra/github-readme-stats)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhyeongKim0412&hide=contribs,prs&show_icons=true&theme=테마)
   <p style="text-align: left;">
     <a href="https://github.com/MinhyeongKim0412" style="color: #ff69b4;">
       <img class="badge" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
@@ -45,6 +47,9 @@
     <img class="badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
     <img class="badge" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
     <img class="badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
+    <img class="badge" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+    <img class="badge" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge">
+      <img class="badge" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge">
   </p>
 
   <h2 style="color: #ff69b4; text-align: left;">Tools</h2>
