@@ -24,7 +24,7 @@
    <br>
    <br>
    <br>
-   
+   [![코드트리|실력진단-kimminhyeong9804](https://banner.codetree.ai/v1/banner/kimminhyeong9804)](https://www.codetree.ai/profiles/kimminhyeong9804)
   <p style="text-align: left;">
     <a href="https://github.com/MinhyeongKim0412" style="color: #ff69b4;">
       <img class="badge" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
